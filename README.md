@@ -2,13 +2,11 @@
 <h3 align="center">...and I build things that live on the internet!</h3>
 
 
-- 🔭 I’m currently working on a [project management app!](https://github.com/Ccolson91/foundations-capstone)
+- 🔭 I’m currently working on a [project management app!](https://github.com/Ccolson91/project-management-app)
 
-- 🌱 I’m currently learning **Javascript & FULLSTACK development fundamentals!**
+- 🌱 I’m currently learning **Java Development with Spring!**
 
 - 👨‍💻 All of my projects are available at [https://ccolson91.github.io](https://ccolson91.github.io)
-
-- 💬 Ask me about **Javascript, Node.js, Express or Postgres!**
 
 - 📫 How to reach me **christiancolson91@gmail.com**
 
