@@ -2,7 +2,7 @@
 <h3 align="center">...and I build things that live on the internet!</h3>
 
 
-- 🔭 I’m currently working on a [digital coupon creator!](https://github.com/Ccolson91/foundations-capstone)
+- 🔭 I’m currently working on a [project management app!](https://github.com/Ccolson91/foundations-capstone)
 
 - 🌱 I’m currently learning **Javascript & FULLSTACK development fundamentals!**
 
